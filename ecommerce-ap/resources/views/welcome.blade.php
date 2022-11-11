@@ -18,7 +18,7 @@
                     <img href="{{ Route('index') }}"  class="d-inline-block align-text-top">
                         WhiteBag
                 </a>
-                <a class="nav-link" href="{{ Route('index') }}">Home-teste</a>
+                <a class="nav-link" href="{{ Route('index') }}">Home</a>
                 <a class="nav-link" href="{{ Route('Category.index') }}">Categorias</a>
                 <a class="nav-link" href="{{ Route('Address.index') }}">Cadastrar</a>  
             </div>
